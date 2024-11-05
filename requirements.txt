@@ -1,0 +1,7 @@
+keras-nlp
+keras>=3
+langchain
+langchain-community
+langchainhub
+chromadb
+huggingface_hub
