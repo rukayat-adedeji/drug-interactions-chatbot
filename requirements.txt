@@ -1,7 +1,12 @@
 keras-nlp
-keras>=3
+tf-keras
+sentence-transformers
+keras
 langchain
 langchain-community
+langchain-chroma
 langchainhub
-chromadb
+langchain-huggingface
+tavily-python
 huggingface_hub
+chromadb
